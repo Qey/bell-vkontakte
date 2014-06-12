@@ -1,0 +1,28 @@
+{
+  "name": "bell-vkontakte",
+  "version": "0.0.0",
+  "description": "vk.com provider support for bell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Qey/bell-vkontakte.git"
+  },
+  "keywords": [
+    "vkontakte",
+    "bell",
+    "oauth"
+  ],
+  "author": "Ilya Kuznetsov <worklez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qey/bell-vkontakte/issues"
+  },
+  "homepage": "https://github.com/Qey/bell-vkontakte",
+  "dependencies": {
+    "hapi": "^6.0.0",
+    "bell": "^1.0.0"
+  }
+}
